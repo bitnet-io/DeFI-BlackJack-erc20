@@ -1,6 +1,5 @@
 
 # A Decentralized BlackJack Game On Arbitrum
-![alt text](https://preview.redd.it/3r94tj207tf71.png?auto=webp&s=7a244e946ffedeac4c4115979d2837121dd1e5d4)
 
 Hosted on IPFS Here: https://morning-field-4798.on.fleek.co/
 
